@@ -1,4 +1,3 @@
-# QT_generateQR
-ä¸€ä¸ªç®€å•QTè”ç³»ç¨‹åºï¼ŒåŠ è½½excelç”ŸæˆäºŒç»´ç 
-äºŒç»´ç åº“æ¥æºï¼šhttps://github.com/abinghu/qt_rc
-åŠ è½½excelçš„åº“ï¼šhttps://github.com/czyt1988/czyBlog/tree/master/tech/fastReadExcel
+Ò»¸ö¼òµ¥QTÁ·Ï°³ÌĞò£¬¼ÓÔØexcelÉú³É¶şÎ¬Âë 
+¶şÎ¬Âë¿âÀ´Ô´£ºhttps://github.com/abinghu/qt_rc
+ ¼ÓÔØexcelµÄ¿â£ºhttps://github.com/czyt1988/czyBlog/tree/master/tech/fastReadExcel
